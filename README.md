@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm MUHAMMED FAZIL PM</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Fullstack developer</h3>
 <img height="300" width="1000" src="https://wallpapers.com/images/hd/code-symbols-programming-screen-words-fpxp7h6vnpqrhkfg.jpg" alt="muhammedfazilpm" /> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedfazilpm&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedfazilpm" /> </p>

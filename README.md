@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [GanG guest management app](https://gangguide.netlify.app/)
+- 🔭 I’m currently working on [Craigrade](https://craigrade.com/)
 
 - 👯 I’m looking to collaborate on **WE CHAT**
 
